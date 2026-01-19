@@ -12,9 +12,9 @@ The **Symbeon Protocol** is the core methodology of the **EZ-Fundation**. It is 
 
 The protocol operates through the synergy of three architectural pillars:
 
-1.  **Arqueologia (AION-Core):** Extracting the "Digital DNA" and logical intentions from compiled binaries.
-2.  **Logic (Eon-Chess):** Providing the distilled, pure algorithmic mastery to govern decision-making.
-3.  **Generation (EZ-Studios-Core):** Using the extracted seeds to build infinite, procedural reality blueprints.
+1.  **Archaeology (AION-Core):** Extracting "Digital DNA" and logic from binaries.
+2.  **Logic (Eon-Chess):** Distilled, pure algorithmic mastery for decision-making.
+3.  **Generation (EZ-Studios-Core):** Using the **Holistic Generation Framework (HGF)** to expand seeds into procedural realities, deployed via the **Engine Optimization Matrix**.
 
 ---
 

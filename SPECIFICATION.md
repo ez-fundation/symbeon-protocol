@@ -26,12 +26,33 @@ The core of the protocol is the **Isomorphic Intent**. This JSON structure serve
 
 ## 2. Isomorphic Mapping Principles
 1.  **Conservation of Entropy:** The complexity of the output world must be proportional to the entropy of the source binary.
-2.  **Aesthetic Continuity:** Use pattern-scoring to derive visual themes (e.g., High Complexity -> Cybernetic-Legacy).
-3.  **Algorithmic Injection:** Eon-Chess logic must be injected into the generated NPCs to maintain "Pure Logic" behavior.
+2.  **Aesthetic Continuity:** Use pattern-scoring to derive visual themes via $\Psi(\text{Geometry}, \text{Estetica})$.
+3.  **Algorithmic Injection:** Pure logic from the **Eon-Chess** layer is injected into the generated entities.
 
-## 3. Integration Interface
+## 3. The Generation Pipeline (EZ-Studios HGF)
+Once the Intent is received, it is processed by the **Holistic Generation Framework (HGF)**:
+
+### 3.1 Actor Engine (Anatomic WFC)
+- Translates `Actor` category intents into physical entities.
+- Uses **DNA seeds** derived from the original binary entropy.
+
+### 3.2 Item Factory (Stat-BSP)
+- Partitions the "Power Budget" of extracted items based on their original complexity.
+
+### 3.3 Experience Layer
+- Maps the "Game Intention" (extracted strings/logic) into quest and event graphs.
+
+## 4. Adaptation & Deployment (Engine Matrix)
+The final stage of the protocol is the deployment of the generated blueprint into native engines:
+
+| Stage | Roblox | Unity | Web (Three.js) |
+| :--- | :--- | :--- | :--- |
+| **Execution** | Luau GETIMPORT | C# Job System | WebAssembly |
+| **Instancing** | task.spawn/Batch | Burst Compiler | InstancedMesh |
+
+## 5. Integration Interface
 AION exports to `<ROOT>/AION_REPORTS/aion_intent.json`.
 EZ-Studios monitors this path to trigger the **Seed-to-World** pipeline.
 
 ---
-*EZ-Fundation Technical Standards*
+*EZ-Fundation Technical Standards - Symbeon Protocol v0.2.0*
