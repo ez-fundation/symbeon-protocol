@@ -1,4 +1,4 @@
-# Sovereign Codex: O Renascimento do Código Infinito 🛡️💎🕶️
+![alt text](image.png)# Sovereign Codex: O Renascimento do Código Infinito 🛡️💎🕶️
 
 > **ARQUIVAR → PONTE → SEMEAR → GERAR**
 
