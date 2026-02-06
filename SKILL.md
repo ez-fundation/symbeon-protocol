@@ -1,13 +1,13 @@
 ---
-name: symbeon-protocol
+name: sovereign-codex
 description: The Methodology & Strategic Manifesto.
 visibility: PUBLIC
 ---
 
-# 🌀 Skill: Symbeon Protocol
+# 🛡️ Skill: Sovereign Codex
 
 ## 1. Purpose
-This repository is the **Manifesto**. It documents the "Sovereign Symbiote" methodology: Archive -> Bridge -> Seed -> Generate. It aligns the entire organization under a unified philosophical framework.
+This repository is the **Manifesto**. It documents the "Sovereign Codex" methodology: Archive -> Bridge -> Seed -> Generate. It aligns the entire organization under a unified philosophical framework.
 
 ## 2. Capabilities
 - **Methodology**: Defines the "Why" and "How" of EZ Foundation's existence.

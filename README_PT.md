@@ -1,8 +1,8 @@
-# Protocolo Symbeon: O Renascimento do Código Infinito 🌀💎🕶️
+# Sovereign Codex: O Renascimento do Código Infinito 🛡️💎🕶️
 
 > **ARQUIVAR → PONTE → SEMEAR → GERAR**
 
-O **Protocolo Symbeon** é a metodologia central da **EZ-Fundation**. É o fluxo de trabalho unificado projetado para resgatar artefatos digitais legados e transmutá-los em experiências soberanas, procedurais e infinitas.
+O **Sovereign Codex** é a metodologia central da **EZ-Fundation**. É o fluxo de trabalho unificado projetado para resgatar artefatos digitais legados e transmutá-los em experiências soberanas, procedurais e infinitas.
 
 [**English**](README.md) | [**Português**](README_PT.md)
 
@@ -29,7 +29,7 @@ graph LR
 ```
 
 ## 🌌 Nossa Filosofia
-Acreditamos que nenhum código está verdadeiramente morto. Nas profundezas de cada binário obsoleto reside uma sequência de criatividade humana que vale a pena preservar. O Protocolo Symbeon é a ponte que permite que essa criatividade transcenda seu hardware original e floresça na era da Inteligência Artificial.
+Acreditamos que nenhum código está verdadeiramente morto. Nas profundezas de cada binário obsoleto reside uma sequência de criatividade humana que vale a pena preservar. O Sovereign Codex é a ponte que permite que essa criatividade transcenda seu hardware original e floresça na era da Inteligência Artificial.
 
 ## 🛠️ Padrões Técnicos
 Para informações detalhadas sobre formatos de troca de dados, consulte [SPECIFICATION.md](SPECIFICATION.md).

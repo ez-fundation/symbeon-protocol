@@ -1,4 +1,4 @@
-# Symbeon Protocol: Technical Specification v0.2.0
+# Sovereign Codex: Technical Specification v0.2.0
 
 ## 1. The Symbeon Intent Schema
 The core of the protocol is the **Isomorphic Intent**. This JSON structure serves as the contract between the Archaeologist (AION) and the Generator (EZ-Studios).
@@ -55,4 +55,4 @@ AION exports to `<ROOT>/AION_REPORTS/aion_intent.json`.
 EZ-Studios monitors this path to trigger the **Seed-to-World** pipeline.
 
 ---
-*EZ-Fundation Technical Standards - Symbeon Protocol v0.2.0*
+*EZ-Fundation Technical Standards - Sovereign Codex v0.2.0*

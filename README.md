@@ -1,8 +1,8 @@
-# Symbeon Protocol: The Infinite Code Renaissance 🌀💎🕶️
+# Sovereign Codex: The Infinite Code Renaissance 🛡️💎🕶️
 
 > **ARCHIVE → BRIDGE → SEED → GENERATE**
 
-The **Symbeon Protocol** is the core methodology of the **EZ-Fundation**. It is the unified workflow designed to rescue legacy digital artifacts and transmute them into sovereign, procedural, and infinite experiences.
+The **Sovereign Codex** is the core methodology of the **EZ-Fundation**. It is the unified workflow designed to rescue legacy digital artifacts and transmute them into sovereign, procedural, and infinite experiences.
 
 [**English**](README.md) | [**Português**](README_PT.md)
 
@@ -29,7 +29,7 @@ graph LR
 ```
 
 ## 🌌 Our Philosophy
-We believe that no code is ever truly dead. In the depths of every obsolete binary lies a sequence of human creativity worth preserving. The Symbeon Protocol is the bridge that allows this creativity to transcend its original hardware and bloom in the era of Artificial Intelligence.
+We believe that no code is ever truly dead. In the depths of every obsolete binary lies a sequence of human creativity worth preserving. The Sovereign Codex is the bridge that allows this creativity to transcend its original hardware and bloom in the era of Artificial Intelligence.
 
 ## 🛠️ Technical Standards
 For detailed information on data exchange formats, see [SPECIFICATION.md](SPECIFICATION.md).
